@@ -1,0 +1,80 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+body {
+    margin-bottom: 60px;
+    font: sans-serif;
+    background-color: #ffffff;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+.link {
+    text-decoration: none
+}
+
+.title {
+    font-size: 30px;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.logo {
+    font-family: cursive;
+    font-size: 40px;
+    font-weight: bold;
+    border: ridge;
+    margin-right: 30px;
+    padding: 10px;
+    border-color: #80aaff;
+}
+
+.options {
+    padding-bottom: 0px;
+    margin-bottom: -25px;
+}
+
+.indexContent {
+    text-align: center;
+    align-content: center;
+    margin-top: 50px;
+}
+
+.line {
+    border-bottom: 2px solid #0a66c2;
+}
+
+th, td {
+    padding: 5px;
+}
+
+.Table {
+    margin-top: 20px;
+    align-content: center;
+    width: 100%;
+}
+
+.content {
+    margin-top: 50px;
+}
+
+.part {
+    font-size: 20px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+}
+
+im, hr {
+    color: #0a66c2;
+}

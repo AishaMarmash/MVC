@@ -1,0 +1,46 @@
+﻿@model IEnumerable<MySolution.Model.Task>
+<form asp-action="Index" asp-controller="Search" method="post">
+    <h4>Search on tasks</h4>
+    <table>
+        <tr>
+            <td>Project Name: </td>
+            <td>@Html.TextBox("ProjectName")</td>
+        </tr>
+        <tr>
+            <td>Task Name: </td>
+            <td>@Html.TextBox("TaskName")</td>
+        </tr>
+        <tr>
+            <td>Task Status: </td>
+            <td>@Html.TextBox("TaskStatus")</td>
+        </tr>
+         <tr>
+            <td>Assigned Contributor: </td>
+            <td>@Html.TextBox("AssignedContributor")</td>
+        </tr>
+        <tr>
+            <td colspan="2"><input type="submit" value="Search" /></td>
+        </tr>
+    </table>
+    <hr/>
+    <h4>Tasks: </h4>
+    <table class="table">
+    @{
+        if(@Model.Count()==0)
+        {
+            <tr>
+                <td></td>
+            </tr>
+        }
+        else
+        {
+            foreach(var task in Model)
+            {
+                <tr>
+                    <td>@task</td>
+                </tr>
+            }
+        }
+    }
+    </table>
+</form>

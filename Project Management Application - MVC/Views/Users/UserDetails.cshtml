@@ -1,0 +1,23 @@
+﻿@model IEnumerable<MySolution.Model.Project>
+
+<h4 class="title">@ViewBag.UserName</h4>
+<div class="content">
+    @{
+        var item = @ViewBag.UserName;
+        foreach(var project in Model)
+        {
+            <p>Works on <b>@project.ProjectName</b></p>
+            <ul>
+                @{
+                    foreach (var task in project.Tasks)
+                    {
+                        if(task.Contributor.Equals(@ViewBag.UserName))
+                        {
+                            <li>@task </li>
+                        }
+                    }
+                }
+            </ul>
+        }
+    }
+</div>

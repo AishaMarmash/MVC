@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Aisha's Dir.Files\\Training\\Projects\\Model\\Services\\Services.csproj": {}
+    "D:\\Aisha's Dir.Files\\Training\\Projects\\Project Management App\\Services\\Services.csproj": {}
   },
   "projects": {
-    "D:\\Aisha's Dir.Files\\Training\\Projects\\Model\\Model\\Model.csproj": {
+    "D:\\Aisha's Dir.Files\\Training\\Projects\\Project Management App\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Aisha's Dir.Files\\Training\\Projects\\Model\\Model\\Model.csproj",
+        "projectUniqueName": "D:\\Aisha's Dir.Files\\Training\\Projects\\Project Management App\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "D:\\Aisha's Dir.Files\\Training\\Projects\\Model\\Model\\Model.csproj",
+        "projectPath": "D:\\Aisha's Dir.Files\\Training\\Projects\\Project Management App\\Model\\Model.csproj",
         "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "D:\\Aisha's Dir.Files\\Training\\Projects\\Model\\Model\\obj\\",
+        "outputPath": "D:\\Aisha's Dir.Files\\Training\\Projects\\Project Management App\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "D:\\Aisha's Dir.Files\\Training\\Projects\\Model\\Services\\Services.csproj": {
+    "D:\\Aisha's Dir.Files\\Training\\Projects\\Project Management App\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Aisha's Dir.Files\\Training\\Projects\\Model\\Services\\Services.csproj",
+        "projectUniqueName": "D:\\Aisha's Dir.Files\\Training\\Projects\\Project Management App\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "D:\\Aisha's Dir.Files\\Training\\Projects\\Model\\Services\\Services.csproj",
+        "projectPath": "D:\\Aisha's Dir.Files\\Training\\Projects\\Project Management App\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "D:\\Aisha's Dir.Files\\Training\\Projects\\Model\\Services\\obj\\",
+        "outputPath": "D:\\Aisha's Dir.Files\\Training\\Projects\\Project Management App\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Aisha's Dir.Files\\Training\\Projects\\Model\\Model\\Model.csproj": {
-                "projectPath": "D:\\Aisha's Dir.Files\\Training\\Projects\\Model\\Model\\Model.csproj"
+              "D:\\Aisha's Dir.Files\\Training\\Projects\\Project Management App\\Model\\Model.csproj": {
+                "projectPath": "D:\\Aisha's Dir.Files\\Training\\Projects\\Project Management App\\Model\\Model.csproj"
               }
             }
           }

@@ -4,9 +4,9 @@ namespace Services.FilesManager
     public class FilesManager
     {
         static List<Project>? projects;
-        public static List<Project> GetProjects()
+        public async static Task<List<Project>> GetProjects()
         {
-            projects = Reader.ReadDataFromFile("../data.txt");
+            projects = await Reader.ReadDataFromFile("../data.txt");
             return projects;
         }
     }

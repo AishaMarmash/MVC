@@ -4,13 +4,13 @@ namespace Services.FilesManager
     public class Reader
     {
         static List<Project>? projects;
-        public static List<Project> ReadDataFromFile(string textFile)
+        public static async Task<List<Project>> ReadDataFromFile(string textFile)
         {
             projects = new List<Project>();
             List<MySolution.Model.Task> projectTasks = new();
             List<string> projectContributors = new();
             string[] taskInfo;
-            string[] lines = File.ReadAllLines(textFile);
+            string[] lines = await File.ReadAllLinesAsync(textFile);
             int LineIndex = 1;
             int projectsNum = int.Parse(lines[0]);
             for (int i = 0; i < projectsNum; i++)

@@ -8,7 +8,11 @@ namespace Project_Management_Application_MVC.Controllers
         private List<Project>? _projects = null;
         public ProjectsController()
         {
-            _projects = FilesManager.GetProjects();
+            ReadProjects(); 
+        }
+        public async void ReadProjects()
+        {
+            _projects = await FilesManager.GetProjects();
         }
         public IActionResult ProjectDetails(string projectName)
         {

@@ -10,7 +10,11 @@ namespace Project_Management_Application_MVC.Controllers
         private List<Project>? _projects = null;
         public SearchController()
         {
-            _projects = FilesManager.GetProjects();
+            ReadProjects();
+        }
+        public async void ReadProjects()
+        {
+            _projects = await FilesManager.GetProjects();
         }
         public IActionResult Index()
         {
@@ -20,16 +24,16 @@ namespace Project_Management_Application_MVC.Controllers
         [HttpPost]
         public ActionResult Index(string ProjectName, string TaskName, string TaskStatus, string AssignedContributor)
         {
-            TaskFilter taskfilter2 = new TaskFilter();
+            TaskFilter taskfilter = new TaskFilter();
             if (TaskStatus != null)
-                taskfilter2.TaskStatus = TaskStatus;
+                taskfilter.TaskStatus = TaskStatus;
             if (TaskName != null)
-                taskfilter2.TaskName = TaskName;
+                taskfilter.TaskName = TaskName;
             if (ProjectName != null)
-                taskfilter2.ProjectName = ProjectName;
+                taskfilter.ProjectName = ProjectName;
             if (AssignedContributor != null)
-                taskfilter2.AssignedContributor = AssignedContributor;
-            List<MySolution.Model.Task> tasks = TasksFiltration.Search(_projects, taskfilter2);
+                taskfilter.AssignedContributor = AssignedContributor;
+            List<MySolution.Model.Task> tasks = TasksFiltration.Search(_projects, taskfilter);
             return View(tasks);
         }
     }

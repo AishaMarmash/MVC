@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Aisha's Dir.Files\\Training\\Projects\\Model\\Project Management Application - MVC\\Project Management Application - MVC.csproj",
+      "projectUniqueName": "D:\\Aisha's Dir.Files\\Training\\Projects\\Project Management App\\Project Management Application - MVC\\Project Management Application - MVC.csproj",
       "projectName": "Project Management Application - MVC",
-      "projectPath": "D:\\Aisha's Dir.Files\\Training\\Projects\\Model\\Project Management Application - MVC\\Project Management Application - MVC.csproj",
+      "projectPath": "D:\\Aisha's Dir.Files\\Training\\Projects\\Project Management App\\Project Management Application - MVC\\Project Management Application - MVC.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "D:\\Aisha's Dir.Files\\Training\\Projects\\Model\\Project Management Application - MVC\\obj\\",
+      "outputPath": "D:\\Aisha's Dir.Files\\Training\\Projects\\Project Management App\\Project Management Application - MVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -71,8 +71,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Aisha's Dir.Files\\Training\\Projects\\Model\\Services\\Services.csproj": {
-              "projectPath": "D:\\Aisha's Dir.Files\\Training\\Projects\\Model\\Services\\Services.csproj"
+            "D:\\Aisha's Dir.Files\\Training\\Projects\\Project Management App\\Services\\Services.csproj": {
+              "projectPath": "D:\\Aisha's Dir.Files\\Training\\Projects\\Project Management App\\Services\\Services.csproj"
             }
           }
         }

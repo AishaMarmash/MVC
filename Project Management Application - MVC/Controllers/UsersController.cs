@@ -9,9 +9,13 @@ namespace Project_Management_Application_MVC.Controllers
         private List<Project>? _projects = null;
         public UsersController()
         {
-            _projects = FilesManager.GetProjects();
+            ReadProjects();
         }
-        public IActionResult UserDetails(string userName)
+        public async void ReadProjects()
+        {
+            _projects = await FilesManager.GetProjects();
+        }
+        public async Task<IActionResult> UserDetails(string userName)
         {
             ViewBag.UserName = userName;
             var query = _projects.Select(p => p).Where(p => p.Contributors.Contains(userName)).ToList();

@@ -10,11 +10,11 @@ namespace Project_Management_Application_MVC.Controllers
 
         public HomeController(ILogger<HomeController> logger)
         {
-            _projects = FilesManager.GetProjects();
             _logger = logger;
         }
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
+            _projects = await FilesManager.GetProjects();
             return View(_projects);
         }
     }

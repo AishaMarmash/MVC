@@ -21,6 +21,5 @@
             this.TaskStatus = TaskStatus;
             this.AssignedContributor = AssignedContributor;
         }
-
     }
 }

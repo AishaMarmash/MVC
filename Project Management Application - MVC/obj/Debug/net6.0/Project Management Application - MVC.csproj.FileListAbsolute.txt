@@ -29,3 +29,34 @@ D:\Aisha's Dir.Files\Training\Projects\Model\Project Management Application - MV
 D:\Aisha's Dir.Files\Training\Projects\Model\Project Management Application - MVC\obj\Debug\net6.0\Project Management Application - MVC.pdb
 D:\Aisha's Dir.Files\Training\Projects\Model\Project Management Application - MVC\obj\Debug\net6.0\Project Management Application - MVC.genruntimeconfig.cache
 D:\Aisha's Dir.Files\Training\Projects\Model\Project Management Application - MVC\obj\Debug\net6.0\ref\Project Management Application - MVC.dll
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - MVC\bin\Debug\net6.0\appsettings.Development.json
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - MVC\bin\Debug\net6.0\appsettings.json
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - MVC\bin\Debug\net6.0\Project Management Application - MVC.staticwebassets.runtime.json
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - MVC\bin\Debug\net6.0\Project Management Application - MVC.exe
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - MVC\bin\Debug\net6.0\Project Management Application - MVC.deps.json
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - MVC\bin\Debug\net6.0\Project Management Application - MVC.runtimeconfig.json
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - MVC\bin\Debug\net6.0\Project Management Application - MVC.dll
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - MVC\bin\Debug\net6.0\Project Management Application - MVC.pdb
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - MVC\bin\Debug\net6.0\Model.dll
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - MVC\bin\Debug\net6.0\Services.dll
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - MVC\bin\Debug\net6.0\Services.pdb
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - MVC\bin\Debug\net6.0\Model.pdb
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - MVC\obj\Debug\net6.0\Project Management Application - MVC.csproj.AssemblyReference.cache
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - MVC\obj\Debug\net6.0\Project Management Application - MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - MVC\obj\Debug\net6.0\Project Management Application - MVC.AssemblyInfoInputs.cache
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - MVC\obj\Debug\net6.0\Project Management Application - MVC.AssemblyInfo.cs
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - MVC\obj\Debug\net6.0\Project Management Application - MVC.csproj.CoreCompileInputs.cache
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - MVC\obj\Debug\net6.0\Project Management Application - MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - MVC\obj\Debug\net6.0\Project Management Application - MVC.RazorAssemblyInfo.cache
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - MVC\obj\Debug\net6.0\Project Management Application - MVC.RazorAssemblyInfo.cs
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - MVC\obj\Debug\net6.0\staticwebassets.build.json
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - MVC\obj\Debug\net6.0\staticwebassets.development.json
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - MVC\obj\Debug\net6.0\scopedcss\bundle\Project Management Application - MVC.styles.css
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - MVC\obj\Debug\net6.0\scopedcss\projectbundle\Project Management Application - MVC.bundle.scp.css
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - MVC\obj\Debug\net6.0\Project Management Application - MVC.csproj.CopyComplete
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - MVC\obj\Debug\net6.0\Project Management Application - MVC.dll
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - MVC\obj\Debug\net6.0\refint\Project Management Application - MVC.dll
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - MVC\obj\Debug\net6.0\Project Management Application - MVC.pdb
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - MVC\obj\Debug\net6.0\Project Management Application - MVC.genruntimeconfig.cache
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - MVC\obj\Debug\net6.0\ref\Project Management Application - MVC.dll

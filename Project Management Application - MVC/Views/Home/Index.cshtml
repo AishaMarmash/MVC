@@ -1,0 +1,29 @@
+﻿@model IEnumerable<MySolution.Model.Project>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="indexContent">
+    <h1 class="title">Your Projects</h1>
+    <div style="padding:50px">
+    <table class = "Table">
+        <tr style="font-weight:600">
+            <td class="line"> Project Name </td>
+            <td class="line"> Number Of Tasks </td>
+            <td class="line"> Number Of Assigned Collaborators </td>
+        </tr>
+
+        @{
+            foreach(var project in Model)
+            {
+                <tr> 
+                    <td><a class="link" href='@Url.Action("ProjectDetails", "Projects", new {projectName = @project.ProjectName})'>@project.ProjectName</a></td>
+                    <td>@project.Tasks.Count</td>
+                    <td>@project.Contributors.Count</td>
+                </tr>
+            }
+        }
+    </table>
+    </div>
+</div>

@@ -1,0 +1,30 @@
+D:\Aisha's Dir.Files\Training\Projects\Model\Services\bin\Debug\net6.0\Services.deps.json
+D:\Aisha's Dir.Files\Training\Projects\Model\Services\bin\Debug\net6.0\Services.dll
+D:\Aisha's Dir.Files\Training\Projects\Model\Services\bin\Debug\net6.0\Services.pdb
+D:\Aisha's Dir.Files\Training\Projects\Model\Services\bin\Debug\net6.0\Model.dll
+D:\Aisha's Dir.Files\Training\Projects\Model\Services\bin\Debug\net6.0\Model.pdb
+D:\Aisha's Dir.Files\Training\Projects\Model\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+D:\Aisha's Dir.Files\Training\Projects\Model\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aisha's Dir.Files\Training\Projects\Model\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+D:\Aisha's Dir.Files\Training\Projects\Model\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+D:\Aisha's Dir.Files\Training\Projects\Model\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+D:\Aisha's Dir.Files\Training\Projects\Model\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+D:\Aisha's Dir.Files\Training\Projects\Model\Services\obj\Debug\net6.0\Services.dll
+D:\Aisha's Dir.Files\Training\Projects\Model\Services\obj\Debug\net6.0\refint\Services.dll
+D:\Aisha's Dir.Files\Training\Projects\Model\Services\obj\Debug\net6.0\Services.pdb
+D:\Aisha's Dir.Files\Training\Projects\Model\Services\obj\Debug\net6.0\ref\Services.dll
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Services\obj\Debug\net6.0\Services.dll
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Services\obj\Debug\net6.0\refint\Services.dll
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Services\obj\Debug\net6.0\Services.pdb
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Services\bin\Debug\net6.0\Services.deps.json
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Services\bin\Debug\net6.0\Services.dll
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Services\bin\Debug\net6.0\Services.pdb
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Services\bin\Debug\net6.0\Model.dll
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Services\bin\Debug\net6.0\Model.pdb
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Services\obj\Debug\net6.0\ref\Services.dll

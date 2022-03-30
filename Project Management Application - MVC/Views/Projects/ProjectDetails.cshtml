@@ -1,0 +1,26 @@
+﻿@model MySolution.Model.Project
+@{
+
+}
+<div class="content">  
+<div>
+    <p class="part">List of Tasks</p>
+        <ul>
+        @foreach(var task in @Model.Tasks)
+        {
+            <li><im>@task.Title</im>, assigned to <im>@task.Contributor</im> , and now it is on <im>@task.Status</im> status.</li>
+        }
+        </ul>
+</div>
+
+&emsp; 
+<div>
+    <p class="part">List of Users</p>
+        <ul>
+        @foreach(var user in @Model.Contributors)
+        {
+            <li><a class="link" href='@Url.Action("UserDetails", "Users", new {userName = @user})'>@user</a></li>
+        }
+    </ul>
+</div>
+</div>

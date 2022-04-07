@@ -1,0 +1,282 @@
+﻿++Solution 'Project Management App' ‎(3 of 3 projects)
+i:{00000000-0000-0000-0000-000000000000}:Project Management App.sln
+++Model
+i:{00000000-0000-0000-0000-000000000000}:Model
+i:{7e72b592-0402-4e22-bd4e-c0e6c4b8db54}:d:\aisha's dir.files\training\projects\project management app\model\bin\debug\net6.0\model.dll
+++Dependencies
+i:{69b1a86a-8703-4715-9056-ffc1c5adf08e}:>320
+i:{7e72b592-0402-4e22-bd4e-c0e6c4b8db54}:>319
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:>491
+++Project.cs
+i:{69b1a86a-8703-4715-9056-ffc1c5adf08e}:d:\aisha's dir.files\training\projects\project management app\model\project.cs
+++StatusType.cs
+i:{69b1a86a-8703-4715-9056-ffc1c5adf08e}:d:\aisha's dir.files\training\projects\project management app\model\statustype.cs
+++Task.cs
+i:{69b1a86a-8703-4715-9056-ffc1c5adf08e}:d:\aisha's dir.files\training\projects\project management app\model\task.cs
+++TaskFilter.cs
+i:{69b1a86a-8703-4715-9056-ffc1c5adf08e}:d:\aisha's dir.files\training\projects\project management app\model\taskfilter.cs
+++Analyzers
+i:{69b1a86a-8703-4715-9056-ffc1c5adf08e}:analyzers
+i:{7e72b592-0402-4e22-bd4e-c0e6c4b8db54}:analyzers
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:analyzers
+++Frameworks
+i:{69b1a86a-8703-4715-9056-ffc1c5adf08e}:frameworks
+i:{7e72b592-0402-4e22-bd4e-c0e6c4b8db54}:frameworks
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:frameworks
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{69b1a86a-8703-4715-9056-ffc1c5adf08e}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{7e72b592-0402-4e22-bd4e-c0e6c4b8db54}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{69b1a86a-8703-4715-9056-ffc1c5adf08e}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{7e72b592-0402-4e22-bd4e-c0e6c4b8db54}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++System.Text.Json.SourceGeneration
+i:{69b1a86a-8703-4715-9056-ffc1c5adf08e}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{7e72b592-0402-4e22-bd4e-c0e6c4b8db54}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{69b1a86a-8703-4715-9056-ffc1c5adf08e}:d:\aisha's dir.files\training\projects\project management app\model\microsoft.netcore.app
+i:{7e72b592-0402-4e22-bd4e-c0e6c4b8db54}:d:\aisha's dir.files\training\projects\project management app\services\microsoft.netcore.app
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\microsoft.netcore.app
+++Services
+i:{00000000-0000-0000-0000-000000000000}:Services
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\services\bin\debug\net6.0\services.dll
+++FilesManager.cs
+i:{7e72b592-0402-4e22-bd4e-c0e6c4b8db54}:d:\aisha's dir.files\training\projects\project management app\services\filesmanager.cs
+++ProjectFactory.cs
+i:{7e72b592-0402-4e22-bd4e-c0e6c4b8db54}:d:\aisha's dir.files\training\projects\project management app\services\projectfactory.cs
+++Reader.cs
+i:{7e72b592-0402-4e22-bd4e-c0e6c4b8db54}:d:\aisha's dir.files\training\projects\project management app\services\reader.cs
+++TasksFiltration.cs
+i:{7e72b592-0402-4e22-bd4e-c0e6c4b8db54}:d:\aisha's dir.files\training\projects\project management app\services\tasksfiltration.cs
+++Packages
+i:{7e72b592-0402-4e22-bd4e-c0e6c4b8db54}:packages
+++Projects
+i:{7e72b592-0402-4e22-bd4e-c0e6c4b8db54}:projects
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:projects
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\views\projects\
+++Newtonsoft.Json (13.0.1)
+i:{7e72b592-0402-4e22-bd4e-c0e6c4b8db54}:>519
+++Project Management Application - MVC
+i:{00000000-0000-0000-0000-000000000000}:Project Management Application - MVC
+++Connected Services 
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:>492
+++No service dependencies discovered
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:>493
+++Microsoft.AspNetCore.App
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\microsoft.aspnetcore.app
+++Properties
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\properties\
+++launchSettings.json
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\properties\launchsettings.json
+++wwwroot
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\
+++css
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\css\
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\css\
+++site.css
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\css\site.css
+++js
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\js\
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\js\
+++site.js
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\js\site.js
+++lib
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\
+++bootstrap
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\
+++jquery
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\jquery\
+++jquery-validation
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\jquery-validation-unobtrusive\
+++favicon.ico
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\favicon.ico
+++Controllers
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\controllers\
+++HomeController.cs
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\controllers\homecontroller.cs
+++ProjectsController.cs
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\controllers\projectscontroller.cs
+++SearchController.cs
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\controllers\searchcontroller.cs
+++UsersController.cs
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\controllers\userscontroller.cs
+++Models
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\models\
+++ErrorViewModel.cs
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\models\errorviewmodel.cs
+++Views
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\views\
+++Home
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\views\home\
+++Search
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\views\search\
+++Shared
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\views\shared\
+++Users
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\views\users\
+++_ViewImports.cshtml
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\views\_viewstart.cshtml
+++appsettings.json
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\appsettings.json
+++Program.cs
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\program.cs
+++ProjectsData.json
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\projectsdata.json
+++Microsoft.AspNetCore.Analyzers
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.Extensions.Logging.Generators
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++dist
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\jquery\dist\
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\jquery\license.txt
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++Index.cshtml
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\views\home\index.cshtml
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\views\search\index.cshtml
+++Privacy.cshtml
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\views\home\privacy.cshtml
+++ProjectDetails.cshtml
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\views\projects\projectdetails.cshtml
+++_Layout.cshtml
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\views\shared\error.cshtml
+++UserDetails.cshtml
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\views\users\userdetails.cshtml
+++appsettings.Development.json
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\appsettings.development.json
+++jquery.js
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++_Layout.cshtml.css
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\views\shared\_layout.cshtml.css
+++bootstrap.css
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{85a2f560-50e9-479f-a00f-62544a70cf66}:d:\aisha's dir.files\training\projects\project management app\project management application - mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map

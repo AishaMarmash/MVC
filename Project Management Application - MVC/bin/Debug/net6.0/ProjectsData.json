@@ -1,0 +1,66 @@
+[{
+"ProjectName":"Project1",
+"Contributors":["Aya","Hiba","Amjad","Thaer","Mohammad"],
+"Tasks":[
+			{
+			 "Title":"task1",
+			 "Description":"task1 Description",
+			 "Contributor":"Amjad",
+			 "Status":"ToDo"
+			},
+			{
+			 "Title":"task2",
+			 "Description":"task2 Description",
+			 "Contributor":"Mohammad",
+			 "Status":"ToDo"			 
+			},
+			{
+			 "Title":"task3",
+			 "Description":"task3 Description",
+			 "Contributor":"Hiba",
+			 "Status":"ToDo"
+			},
+			{
+			 "Title":"task4",
+			 "Description":"task4 Description",
+			 "Contributor":"Thaer",
+			 "Status":"ToDo"
+			},
+			{
+			 "Title":"task5",
+			 "Description":"task5 Description",
+			 "Contributor":"Aya",
+			 "Status":"ToDo"			
+			}
+		]	
+},
+{
+"ProjectName":"Project2",
+"Contributors":["Salsabeel","Anas","Aisha"],
+"Tasks":[
+			{
+			 "Title":"taskA",
+			 "Description":"taskA Description",
+			 "Contributor":"Anas",
+			 "Status":"ToDo"
+			},
+			{
+			 "Title":"taskB",
+			 "Description":"taskB Description",
+			 "Contributor":"Salsabeel",
+			 "Status":"ToDo"			 
+			},
+			{
+			 "Title":"taskC",
+			 "Description":"taskC Description",
+			 "Contributor":"Anas",
+			 "Status":"ToDo"
+			},
+			{
+			 "Title":"taskD",
+			 "Description":"taskD Description",
+			 "Contributor":"Aisha",
+			 "Status":"ToDo"
+			}
+		]	
+}]

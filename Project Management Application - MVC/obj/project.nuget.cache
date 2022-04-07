@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Z3+SYM2kj79COc1nO63m3uXk2+DfcXR1m/PMkpp8NtM/gktJ7IMEB7ip/mFWudKNTQhn5dlBeMhsoZV4BhPy5A==",
+  "dgSpecHash": "w57BPxQ3BI/yizRAgm/2WKzDP+BhjwmSiRYGy5W5j8ogNUxbP71Bjm8JKUZoQCeXh1I48c73UNr+jRP2emc/FQ==",
   "success": true,
   "projectFilePath": "D:\\Aisha's Dir.Files\\Training\\Projects\\Project Management App\\Project Management Application - MVC\\Project Management Application - MVC.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

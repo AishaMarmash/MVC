@@ -60,3 +60,5 @@ D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management
 D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - MVC\obj\Debug\net6.0\Project Management Application - MVC.pdb
 D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - MVC\obj\Debug\net6.0\Project Management Application - MVC.genruntimeconfig.cache
 D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - MVC\obj\Debug\net6.0\ref\Project Management Application - MVC.dll
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - MVC\bin\Debug\net6.0\ProjectsData.json
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - MVC\bin\Debug\net6.0\Newtonsoft.Json.dll

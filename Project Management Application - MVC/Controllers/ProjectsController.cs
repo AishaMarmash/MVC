@@ -19,6 +19,5 @@ namespace Project_Management_Application_MVC.Controllers
             var pro = _projects.Select(p => p).Where(p => p.ProjectName == projectName).ToList()[0];
             return View(pro);
         }
-
     }
 }

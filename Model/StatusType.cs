@@ -1,6 +1,6 @@
 ﻿namespace MySolution.Model
 {
-    enum StatusType
+    public enum StatusType
     {
         ToDo,
         InProgress,

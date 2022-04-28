@@ -2,7 +2,7 @@
 {
     public class ProjectFactory
     {
-        public static Project BuildProject(string projectName, List<string> contributors, List<Task> tasks)
+        public static Project BuildProject(string projectName, List<string> contributors, List<MyTask> tasks)
         {
             Project project = new(projectName, contributors, tasks);
             return project;
@@ -12,7 +12,7 @@
             Project project = new(projectName, contributors);
             return project;
         }
-        public static Project BuildProject(string projectName, List<Task> tasks)
+        public static Project BuildProject(string projectName, List<MyTask> tasks)
         {
             Project project = new(projectName, tasks);
             return project;

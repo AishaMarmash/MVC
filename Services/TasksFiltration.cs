@@ -6,7 +6,7 @@ namespace Services.Filtration
         public TasksFiltration ()
         {
         }
-        public static List<MySolution.Model.Task>? Search(List<Project>? projects, TaskFilter? filter)
+        public static List<MySolution.Model.MyTask>? Search(List<Project>? projects, TaskFilter? filter)
         {
             if (projects == null)
             {
@@ -20,7 +20,7 @@ namespace Services.Filtration
             {
                 var searchQuery = projects.Select(p => p).Where(p => p.ProjectName.Contains(filter.ProjectName))
                           .SelectMany(pros => pros.Tasks).Where(task => task.Title.Contains(filter.TaskName))
-                          .Select(task => task).Where(task => task.Status.Contains(filter.TaskStatus))
+                          .Select(task => task).Where(task => task.Status.ToString().Contains(filter.TaskStatus.ToString()))
                           .Select(tasks => tasks).Where(task => task.Contributor.Contains(filter.AssignedContributor));
                 return searchQuery.ToList();
 

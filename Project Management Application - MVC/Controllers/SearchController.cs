@@ -18,11 +18,11 @@ namespace Project_Management_Application_MVC.Controllers
         }
         public IActionResult Index()
         {
-            List<MySolution.Model.Task> tasks= new();
+            List<MySolution.Model.MyTask> tasks= new();
             return View(tasks);
         }
         [HttpPost]
-        public ActionResult Index(string ProjectName, string TaskName, string TaskStatus, string AssignedContributor)
+        public ActionResult Index(string ProjectName, string TaskName, StatusType TaskStatus, string AssignedContributor)
         {
             TaskFilter taskfilter = new TaskFilter();
             if (TaskStatus != null)
@@ -33,7 +33,7 @@ namespace Project_Management_Application_MVC.Controllers
                 taskfilter.ProjectName = ProjectName;
             if (AssignedContributor != null)
                 taskfilter.AssignedContributor = AssignedContributor;
-            List<MySolution.Model.Task> tasks = TasksFiltration.Search(_projects, taskfilter);
+            List<MySolution.Model.MyTask> tasks = TasksFiltration.Search(_projects, taskfilter);
             return View(tasks);
         }
     }

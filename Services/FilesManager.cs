@@ -6,8 +6,7 @@ namespace Services.FilesManager
         static List<Project>? projects;
         public async static Task<List<Project>> GetProjects()
         {
-            //projects = await Reader.ReadDataFromTxtFile("../data.txt");
-            projects = await Reader.ReadDataFromJsonFile("ProjectsData.json");
+            projects = await Reader.ReadDataFromJsonFile(Configurations.DataFileName);
             return projects;
         }
     }

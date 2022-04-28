@@ -1,0 +1,38 @@
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - API\bin\Debug\net6.0\appsettings.Development.json
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - API\bin\Debug\net6.0\appsettings.json
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - API\bin\Debug\net6.0\Project Management Application - API.exe
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - API\bin\Debug\net6.0\Project Management Application - API.deps.json
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - API\bin\Debug\net6.0\Project Management Application - API.runtimeconfig.json
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - API\bin\Debug\net6.0\Project Management Application - API.dll
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - API\bin\Debug\net6.0\Project Management Application - API.pdb
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - API\obj\Debug\net6.0\Project Management Application - API.csproj.AssemblyReference.cache
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - API\obj\Debug\net6.0\Project Management Application - API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - API\obj\Debug\net6.0\Project Management Application - API.AssemblyInfoInputs.cache
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - API\obj\Debug\net6.0\Project Management Application - API.AssemblyInfo.cs
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - API\obj\Debug\net6.0\Project Management Application - API.csproj.CoreCompileInputs.cache
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - API\obj\Debug\net6.0\Project Management Application - API.MvcApplicationPartsAssemblyInfo.cs
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - API\obj\Debug\net6.0\Project Management Application - API.MvcApplicationPartsAssemblyInfo.cache
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - API\obj\Debug\net6.0\scopedcss\bundle\Project Management Application - API.styles.css
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - API\obj\Debug\net6.0\Project Management Application - API.csproj.CopyComplete
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - API\obj\Debug\net6.0\Project Management Application - API.dll
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - API\obj\Debug\net6.0\refint\Project Management Application - API.dll
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - API\obj\Debug\net6.0\Project Management Application - API.pdb
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - API\obj\Debug\net6.0\Project Management Application - API.genruntimeconfig.cache
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - API\obj\Debug\net6.0\ref\Project Management Application - API.dll
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - API\bin\Debug\net6.0\Model.dll
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - API\bin\Debug\net6.0\Services.dll
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - API\bin\Debug\net6.0\Model.pdb
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - API\bin\Debug\net6.0\Services.pdb
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - API\bin\Debug\net6.0\ProjectsData.json
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - API\bin\Debug\net6.0\AutoMapper.dll
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Aisha's Dir.Files\Training\Projects\Project Management App\Project Management Application - API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll

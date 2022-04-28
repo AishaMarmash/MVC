@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "cdeveLLWF92zyA++bRGAsYJ+BLcZa/1RrX8lG3GK5tVsWI7zKX3gWm/Z+3TtX98HI4ZYWntnqq7BB+PG9fCd9Q==",
+  "dgSpecHash": "cEn7940AHnvGQsZaurlMQY5gESR53F7mJJ46u/4seO79L2bUD94YflcwcuQyy3EMu52opittarAPlhQDE+HtNA==",
   "success": true,
   "projectFilePath": "D:\\Aisha's Dir.Files\\Training\\Projects\\Project Management App\\Services\\Services.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

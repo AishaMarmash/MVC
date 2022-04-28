@@ -4,17 +4,17 @@
     {
         public string ProjectName { get; set; }
         public string TaskName { get; set; }
-        public string TaskStatus { get; set; }
+        public StatusType TaskStatus { get; set; }
         public string AssignedContributor { get; set; }
 
         public TaskFilter()
         {
             this.ProjectName = "";
             this.TaskName = "";
-            this.TaskStatus = "";
+            this.TaskStatus = 0;
             this.AssignedContributor = "";
         }
-        public TaskFilter(string ProjectName, string TaskName, string TaskStatus ,string AssignedContributor)
+        public TaskFilter(string ProjectName, string TaskName, StatusType TaskStatus ,string AssignedContributor)
         {
             this.ProjectName = ProjectName;
             this.TaskName = TaskName;    

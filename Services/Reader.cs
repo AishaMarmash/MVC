@@ -1,13 +1,15 @@
 ﻿using MySolution.Model;
+using Newtonsoft.Json;
+
 namespace Services.FilesManager
 {
     public class Reader
     {
         static List<Project>? projects;
-        public static async Task<List<Project>> ReadDataFromFile(string textFile)
+        public static async Task<List<Project>> ReadDataFromTxtFile(string textFile)
         {
             projects = new List<Project>();
-            List<MySolution.Model.Task> projectTasks = new();
+            List<MySolution.Model.MyTask> projectTasks = new();
             List<string> projectContributors = new();
             string[] taskInfo;
             string[] lines = await File.ReadAllLinesAsync(textFile);
@@ -24,7 +26,7 @@ namespace Services.FilesManager
                 for (int k = 0; k < int.Parse(projectInfo[2]); k++)
                 {
                     taskInfo = lines[LineIndex++].Split(",");
-                    projectTasks.Add(new MySolution.Model.Task(taskInfo[0], taskInfo[1], taskInfo[2]));
+                    projectTasks.Add(new MySolution.Model.MyTask(taskInfo[0], taskInfo[1], taskInfo[2]));
                 }
                 Project project = ProjectFactory.BuildProject(projectName, projectContributors, projectTasks);
                 projects.Add(project);
@@ -33,5 +35,13 @@ namespace Services.FilesManager
             }
             return projects;
         }
+        public static async Task<List<Project>?> ReadDataFromJsonFile(string textFile)
+        {
+            projects = new List<Project>();
+            string jsonData = await File.ReadAllTextAsync(textFile);
+            projects = JsonConvert.DeserializeObject<List<Project>>(jsonData);
+            return projects;
+        }
+
     }
 }

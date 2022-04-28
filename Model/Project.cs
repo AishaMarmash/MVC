@@ -2,30 +2,37 @@
 {
     public class Project
     {
+        public Guid Id { get; set; }
         public string ProjectName { get; set; }
         public List<string> Contributors { get; set; }
-        public List<Task> Tasks { get; set; }
-        public Project() { }
+        public List<MyTask> Tasks { get; set; }
+        public Project() 
+        {
+        }
         public Project(string name)
         {
+            this.Id = Guid.NewGuid();
             this.ProjectName = name;
             this.Contributors = new List<string>();
-            this.Tasks = new List<Task>();
+            this.Tasks = new List<MyTask>();
         }
         public Project(string name, List<string> contributors)
         {
+            this.Id = Guid.NewGuid();
             this.ProjectName = name;
             this.Contributors = contributors.ToList();
-            this.Tasks = new List<Task>();
+            this.Tasks = new List<MyTask>();
         }
-        public Project(string name, List<Task> tasks)
+        public Project(string name, List<MyTask> tasks)
         {
+            this.Id = Guid.NewGuid();
             this.ProjectName = name;
             this.Contributors = new List<string>();
             this.Tasks = tasks.ToList();
         }
-        public Project(string name, List<string> contributors, List<Task> tasks)
+        public Project(string name, List<string> contributors, List<MyTask> tasks)
         {
+            this.Id = Guid.NewGuid();
             this.ProjectName = name;
             Contributors = contributors.ToList();
             Tasks = tasks.ToList();
@@ -34,7 +41,7 @@
         {
             Contributors.Add(username);
         }
-        public void Add_Task(Task task)
+        public void Add_Task(MyTask task)
         {
             Tasks.Add(task);
         }
